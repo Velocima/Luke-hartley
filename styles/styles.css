@@ -1,14 +1,42 @@
-/* #landing {
-    background-image: url('../Background-images/Drum-1.jpg');
 
-    height: 500px; 
+
+/* Background images */
+#media {
+    background-image: url('../Background-images/image-9.png');
+    height: 100%; 
   
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-} */
+}
 
+#bio {
+    background-image: url('../Background-images/Drum-2.jpg');
+    height: 100%; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#contact {
+    background-image: url('../Background-images/Drum-1.jpg');
+    height: 100%; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Basic styling */
 .card {
     margin: 2rem;
+    background-color:rgba(255, 255, 255, 0.7);
+}
+
+h2 {
+    margin: 1.5rem;
 }
