@@ -1,3 +1,8 @@
+/* SMOOOOOOTH scroll */
+html {
+    scroll-behavior: smooth;
+}
+
 /* Background images */
 #media {
     background-image: url('../Background-images/image-9.png');
@@ -20,7 +25,7 @@
 }
 
 #contact {
-    background-image: url('../Background-images/Drum-1.jpg');
+    background-image: url('../Background-images/potential-1.jpg');
     height: 100%; 
   
     background-attachment: fixed;
